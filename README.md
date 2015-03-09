@@ -117,3 +117,24 @@ Bitters is maintained and funded by [thoughtbot, inc](http://thoughtbot.com). Tw
 ## License
 
 Copyright © 2013–2015 [thoughtbot, inc](http://thoughtbot.com). Bitters is free software, and may be redistributed under the terms specified in the [license](LICENSE.md).
+
+## Questions and Suggestions
+
+Tweet your questions or suggestions to [@bourbonsass] and while you’re at it
+follow us too.
+
+[@bourbonsass]: https://twitter.com/bourbonsass
+
+## About thoughtbot
+
+![thoughtbot](https://thoughtbot.com/logo.png)
+
+Bitters is maintained and funded by thoughtbot, inc.
+The names and logos for thoughtbot are trademarks of thoughtbot, inc.
+
+We love open source software!
+See [our other projects][community]
+or [hire us][hire] to help build your product.
+
+[community]: https://thoughtbot.com/community?utm_source=github
+[hire]: https://thoughtbot.com/hire-us?utm_source=github
